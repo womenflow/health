@@ -1,9 +1,9 @@
 ---
 title: "9 Summer Wardrobe Staples That Beat the Heat Without Killing Your Style"
 description: "The 9 breezy, mix-and-match summer wardrobe staples that keep you cool and put-together — even during a heatwave."
-pubDate: 2026-07-10T08:00:00Z
+pubDate: 2026-07-09T22:12:14Z
 tags: ["summer fashion", "wardrobe", "style", "hot weather"]
-draft: true
+draft: false
 image: "/images/health-s1.png"
 ---
 
