@@ -13,6 +13,10 @@ Good news — staying stylish in the heat isn't about buying more. It's about ow
 
 ![Summer wardrobe essentials laid out flat](/images/health-s1.png)
 
+Here are all nine staples in one view — check off what you already own:
+
+![Nine summer wardrobe staples checklist](/images/health-diagram.svg)
+
 ## 1. The Linen Shirt (Your New Best Friend)
 Linen is basically air-conditioning you can wear. A relaxed button-up in white or oatmeal goes over a swimsuit, under the office AC, or with jeans at dinner. **Buy it one size up** for that breezy, unbothered look.
 
